@@ -1,0 +1,3 @@
+/* pages/dukeDream/dukeDream.wxss */
+.item{margin-bottom: 15px;}
+.desc{font-size: 12px;line-height: 20px;}

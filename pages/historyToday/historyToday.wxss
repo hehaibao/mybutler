@@ -1,0 +1,6 @@
+/* pages/historyToday/historyToday.wxss */
+
+.historyTodayInfo{width: 90%;margin: 20px auto;}
+.item{width: 100%;margin-bottom: 20px;}
+.year{width: 80px;color: #333;float: left;}
+.title{color: #999;display: block;margin-left: 85px;}

@@ -1,0 +1,14 @@
+<!--pages/bankQuery/bankQuery.wxml-->
+<view>
+  <!--  详细信息  -->
+  <view class="det-box">
+    <view class="pglist fc99">
+        <block wx:for="{{replys}}" wx:key="{{index}}">
+          <view class="item">
+            <text class="title">{{item.title}}</text>
+            <text class="desc">{{item.content}}</text>
+          </view>
+        </block>
+    </view>
+  </view>
+</view>

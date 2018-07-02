@@ -1,0 +1,16 @@
+<!--pages/historyToday/historyToday.wxml-->
+<view>
+  <!--  详细信息  -->
+  <view class="historyTodayInfo fc99 fs32">
+
+      <view class="history-info">
+        <block wx:for="{{historys}}" wx:key="{{index}}">
+          <view class="item">
+            <text class="year">{{item.lsdate}}</text>
+            <text class="title">{{item.title}}</text>
+          </view>
+        </block>
+      </view>
+
+  </view>
+</view>

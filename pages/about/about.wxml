@@ -1,0 +1,22 @@
+<!--pages/about/about.wxml-->
+<view class="abimgbox">
+  <view>
+    <image src="../../images/logo.png" class="logoimg" />
+  </view>
+  <view class="fs30 logntext">
+    日常小管(小程序版)
+  </view>
+  <view class="mybbox">
+    <view class="mybox">
+      <view class="imgbox">
+        <image src="../../images/my.jpg" class="myimg"/>
+      </view>
+      <view class="textbox fs30 fcff">
+        <view>haibao(微信ID: smwell_haibao)</view>
+        <view>此应用开发者</view>
+        <view>QQ: 964279742</view>
+      </view>
+    </view>
+  </view>
+
+</view>

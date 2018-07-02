@@ -1,0 +1,5 @@
+/* pages/godReply/godReply.wxss */
+.item{margin-bottom: 15px;padding-bottom: 15px;border-bottom: 1px dotted #ccc;}
+.pglist, .item:last-child{border-bottom: 0 none;}
+.title{font-size: 16px;margin-bottom: 10px;display: block;color: #333;}
+.desc{font-size: 12px;line-height: 20px;}
